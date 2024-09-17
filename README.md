@@ -4,3 +4,6 @@
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
