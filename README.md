@@ -1,118 +1,71 @@
-# Mensajes de WhatsApp
+<h1 align = "center">Mensajería de WhatsApp</h1>
 
+<p align = "center">
+Programa para desarrollo de mensajería
+</p>
 
-_Programa para desarrollo de mensajería_
-
-
-![logo de whatsapp](https://github.com/user-attachments/assets/82ba6250-3156-426c-83b9-df643580e2fb)
-
+<p align = "center">
+<img src=https://github.com/user-attachments/assets/82ba6250-3156-426c-83b9-df643580e2fb>
+</p>
+ 
 ## insignias 🎖️
 
-_Estas son las insignias del proyecto_
+<p align = "center">
+<img src=https://img.shields.io/badge/Version-4.2-green> <img src=https://img.shields.io/badge/Release-September-blue>
+<img src=https://img.shields.io/badge/License-MIT-green> <img src=https://img.shields.io/badge/Maven_Central-V7.0.0-blue>
+</p>
+<p align = "center">
+<img src=https://img.shields.io/badge/PRs-Welcome-red> </p>
 
-![version](https://img.shields.io/badge/Version-4.2-blue)
-![actualizacion](https://img.shields.io/badge/Release-September-green)
+## Descripción del proyecto 📋
 
+_¿Qué es WhatsApp?_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-## Desarrollo del proyecto 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
+WhatsApp es una aplicación de mensajería instantánea para teléfonos inteligentes, donde puedes enviar y recibir contenido tipo texto, audio, video, GIF, documentos, contactos, ubicación, llamadas y videollamadas.
 El proyecto se ha desarrollado mediante la plataforma [Java](https://www.java.com/es/) para que sea un programa seguro y portable.
 
-Documentation: Javadocs
+Link de descarga:
 
 ```
-Da un ejemplo
+https://play.google.com/store/apps/details?id=com.whatsapp&hl=es&pli=1
 ```
 
-### Instalación 🔧
+## Estado del proyecto ⌚
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_¿Es una aplicación funcional y completa?_
 
-_Dí cómo será ese paso_
+WhatsApp es una aplicación completamente accesible y funcional que, a pesar de estar finalizada en cuanto a utilidad se refiere, siempre se mantiene en continua actualización para asegurar
+su continua mejora en cuanto seguridad, funcionamiento e implementación de nuevas funciones.
 
-```
-Da un ejemplo
-```
 
-_Y repite_
+## Demostración de funciones ⚙️
 
-```
-hasta finalizar
-```
+_¿Qué funciones tiene WhatsApp?_
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+Este programa contiene una gran cantidad de funciones como llamadas de voz y de video, creación de chats en grupo, [mensajes de voz](https://www.youtube.com/watch?v=1Xz_uHWNjE4) cifrado de mensajes, difusión de GIFs, documentos, [imagenes](https://www.youtube.com/watch?v=h4sBACB4Esc) reacciones, ubicaciones y contactos.
 
-## Ejecutando las pruebas ⚙️
+## Acceso al Proyecto 🕹️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_¿Cómo de accesible es WhatsApp?_
 
-### Analice las pruebas end-to-end 🔩
+WhatsApp es una aplicación completamente gratuita y accesible para todos los sistemas iOS, Andrioid , Windows, WearOS e incluso se puede usar desde la propia pagina. Los únicos dispositivos que no permiten el uso del programa son los moviles que cuentan con los sistemas operativos de Android 4.0.1 o inferior y los dispositivos con iOS 12 o inferior.
 
-_Explica que verifican estas pruebas y por qué_
 
-```
-Da un ejemplo
-```
+## Tecnologías utilizadas  🧑‍💻
 
-### Y las pruebas de estilo de codificación ⌨️
+_¿Qué tecnologías emplea WhatsApp?_
 
-_Explica que verifican estas pruebas y por qué_
+WhatsApp utiliza tecnología de desarrollo web Front-End. Son básicamente tres: HTML, CSS y JavaScript. El frontend se enfoca en el usuario, en todo con lo que puede interactuar y lo que ve mientras navega. Toda la actividad detrás de escena que entrega los datos y la velocidad con la que se entregan esos datos se incluye en la tecnología back-end y DevOps.
 
-```
-Da un ejemplo
-```
+## Personas Contribuyentes 🧍
 
-## Despliegue 📦
+_¿Quien ha creado WhatsApp?_
 
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
+* [Jan Koum](https://es.wikipedia.org/wiki/Jan_Koum) - exCEO y cofundador
+* [Brian Acton](https://es.wikipedia.org/wiki/Brian_Acton) - cofundador
+  
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+_¿Que licencia tiene WhatsApp?_
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+WhatsApp cuenta con una licencia internacional, no exclusiva, libre de regalías. - Mira el archivo [LICENSE.md](LICENSE.md) para detalles
